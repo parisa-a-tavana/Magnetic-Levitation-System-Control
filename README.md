@@ -109,7 +109,7 @@ We design a discrete controller that has similiar parameters to the analog one
 
 
 <br>
-We check the performance of the controller on the non linear system
+We check the performance of the controller on the non-linear system
 <br>
 
 ![Image 19](images/discrete_controller_nonlinear.jpg)
